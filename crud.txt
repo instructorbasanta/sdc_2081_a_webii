@@ -1,0 +1,35 @@
+Add New Data
+- Create Form
+- Validate Form
+- Check weather form is validated or not
+- Connect Database
+- Exceute insert query
+- Check for data insert confirmation
+
+List Data
+- Connect Database
+- Exceute select query and get result object
+- Check for Number of Row
+- Fetch data and append to data array
+- Create HTML table
+- Loop HTML table row with fetchted data
+
+Delete Data
+- Indentify record to delete using primary key
+- Connect Database
+- Exceute delete query
+- Check for delete confirmation
+
+Update Data
+- Indentify record to edit using primary key
+- Connect Database
+- Exceute select query and get result object
+- Check for Number of Row
+- Fetch data and extract to related variable to display into form
+- Create Form
+- Display fetchted data into form using value attribute
+- After user click on update button(validate form)
+- Check weather form is validated or not
+- Connect Database
+- Exceute update query
+- Check for data update confirmation

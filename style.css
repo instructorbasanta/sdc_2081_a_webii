@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    background-color: #98f;
+    text-align: center;
+    color: white;
+    padding: 10px 0;
+}
+#menu{
+    background-color: rgb(79, 100, 26);
+    text-align: left;
+    color: white;
+    padding: 10px 20px;
+}
+#left{
+    background-color: rgb(159, 97, 27);
+    text-align: center;
+    color: white;
+    float: left;
+    width: 25%;
+    height: 500px;
+    border: 2px solid red;
+    box-sizing: border-box;
+}
+#right{
+    background-color: rgb(105, 58, 98);
+    text-align: center;
+    color: white;
+    width: 75%;
+    height: 500px;
+    float: left;
+}
+#footer{
+    background-color: rgb(35, 27, 79);
+    text-align: center;
+    color: white;
+    padding: 10px 0;
+    clear: both;
+}
